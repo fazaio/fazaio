@@ -1,5 +1,5 @@
 ### Hello i'm Faza
-I'm a web developer and Internet Of Thing enthusiast who living in Malang , Jawa Timur , Indonesia.
+I'm a web developer and Internet Of Things enthusiast who living in Malang , Jawa Timur , Indonesia.
 
 ![Profile views](https://gpvc.arturio.dev/fazaio)
 
