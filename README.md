@@ -3,7 +3,7 @@ I'm a web developer and Internet Of Things enthusiast who living in Malang , Jaw
 
 ![Profile views](https://gpvc.arturio.dev/fazaio)
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&hide=html&theme=default&layout=compact)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&langs_count=9&hide=html,tsql&layout=compact)
 
 ---
 ![fazaio github stat](https://github-readme-stats.vercel.app/api?username=fazaio&show_icons=true&hide_border=true)
