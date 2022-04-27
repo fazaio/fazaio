@@ -1,5 +1,6 @@
 ### Hello i'm Faza
-I'm a web developer and Internet Of Things enthusiast who living in Malang , Jawa Timur , Indonesia.
+<!--
+ I'm a web developer and Internet Of Things enthusiast who living in Malang , Jawa Timur , Indonesia.
 
 Framework :
 - VueJs
@@ -24,6 +25,8 @@ IoT Board Experience :
 
 Machine Learning Framework :
 - TensorflowJS
+ 
+-->
 
 ![Profile views](https://gpvc.arturio.dev/fazaio)
 
