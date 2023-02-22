@@ -30,7 +30,7 @@ Machine Learning Framework :
 
 ![Profile views](https://gpvc.arturio.dev/fazaio)
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&langs_count=9&hide=css,html,tsql&layout=compact)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&langs_count=9&hide=css,html,blade,shell,tsql&layout=compact)
 
 ---
 ![fazaio github stat](https://github-readme-stats.vercel.app/api?username=fazaio&show_icons=true&hide_border=true)
