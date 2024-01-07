@@ -67,3 +67,5 @@ module Aux = {
 }
 
 ```
+
+> "Good Programmer is good wizard"
