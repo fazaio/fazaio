@@ -60,7 +60,10 @@ module Aux = {
     "MQTT Protocol | Broker",
     "Arduino | Digispark | Nuvoton",
   ]
-  let codeLang = ["Javascript ⭐", "PHP", "Python", "Typescript", "C#/++", "Bash"]
+  let codeLang = [
+    "Javascript ⭐", 
+    "Typescipt", 
+    "Python", "PHP","Typescript", "C#/++", "Bash"]
 }
 
 ```
