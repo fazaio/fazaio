@@ -33,7 +33,7 @@ Machine Learning Framework :
 
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
-  src="me.jpeg" 
+  src="wakeUp.png" 
   alt="functional programming is the right way"
   style="margin-top:20px;margin-right:13px"
   align="left" 
