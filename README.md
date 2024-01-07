@@ -29,10 +29,38 @@ Machine Learning Framework :
 -->
 
 
+> Pesulap code 🪄 | "Code is like magic wand!" -aux 
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&langs_count=9&hide=css,html,blade,shell,tsql&layout=compact)
+<a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
+<img 
+  src="me.jpeg" 
+  alt="functional programming is the right way"
+  style="margin-top:20px;margin-right:13px"
+  align="left" 
+  height="400px"
+/>
+</a>
 
----
-<!--
-![Profile views](https://gpvc.arturio.dev/fazaio)
-![fazaio github stat](https://github-readme-stats.vercel.app/api?username=fazaio&show_icons=true&hide_border=true)-->
+```rescript
+
+module Aux = {
+  let name = "Faza Aulia"
+  let username = "fazaio/fazaux"
+  let city = "Malang, 🇮🇩"
+  let humanLang = [ "id", "en" ]
+  let favGame = ♔ ♕ ♗ ♘ ♙ ♖ ♚ ♛ ♝ ♞
+  let interests = [
+    "🪄 programming",
+    "Internet Of Things",
+    "Wood Working",
+  ]
+  let IoT = [
+    "ESP8266 | Nodemcu",
+    "ESP32 | ESP32-CAM",
+    "MQTT Protocol | Broker",
+    "Arduino | Digispark | Nuvoton",
+  ]
+  let codeLang = ["Javascript ⭐", "PHP", "Python", "Typescript", "C#/++", "Bash"]
+}
+
+```
