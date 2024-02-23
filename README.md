@@ -69,3 +69,5 @@ module Aux = {
 ```
 
 > "Good Programmer is good wizard"
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaio&hide=html,blade,css,tsql&langs_count=5&theme=dark)
