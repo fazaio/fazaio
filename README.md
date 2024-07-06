@@ -62,8 +62,8 @@ module Aux = {
   ]
   let codeLang = [
     "Javascript ⭐", 
-    "Typescipt", 
-    "Python", "PHP","Typescript", "C#/++", "Bash"]
+    "C#/++ ⭐",
+    "Typescipt", "Python", "PHP", "Bash", "Go", "Java"]
 }
 
 ```
